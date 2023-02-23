@@ -1,5 +1,5 @@
-id: Calc
-name: Calc
+id: calc
+name: calc
 category: web
 web: true
 flag: sarbctf{us1ng_3v4l_functi0n_1s_b4d}
