@@ -1,0 +1,8 @@
+id: Upload
+name: Upload
+category: web
+web: true
+flag: sarbctf{4dm1n_sh0uld_ch3ck_th3_ext3ens1on}
+author: Eteck#3426
+difficulty: 1
+instance: single
