@@ -7,5 +7,6 @@ RUN chmod 744 /dossiersupersecret/flag.txt
 
 COPY src/ /var/www/html/
 
+RUN mkdir /var/www/html/tmp/
 RUN chmod 777 /var/www/html/tmp/
 
