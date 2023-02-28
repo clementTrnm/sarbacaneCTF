@@ -12,7 +12,7 @@ ADD server.py /home/heroctf
 RUN mkdir /home/heroctf/templates
 ADD templates/ /home/heroctf/templates
 
-EXPOSE 80
+EXPOSE 6666
 CMD ["/usr/bin/python3", "/home/heroctf/server.py"]
 
 # sudo docker build -t apline/flask .
