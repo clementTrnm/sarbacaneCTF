@@ -5,7 +5,7 @@
 FROM alpine
 
 RUN apk update && apk upgrade
-RUN apk add python3
+RUN apk add python3 py3-pip
 RUN python3 -m pip install flask
 RUN mkdir /home/heroctf && cd /home/heroctf
 ADD server.py /home/heroctf
