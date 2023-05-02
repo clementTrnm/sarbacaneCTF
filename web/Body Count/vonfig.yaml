@@ -1,0 +1,8 @@
+id : bodycount
+name : body count
+category : web
+web: true
+flag : sarbctf{1nj3ct10n_15_p41nfu1}
+author : roerohan
+difficulty : 2
+instance: single
