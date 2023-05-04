@@ -1,0 +1,8 @@
+id : CCC
+name : CCC
+category : web
+web: true
+flag : sarbctf{1n_th3_3nd_1t_d0esn't_3v3n_m4tt3r}
+author : roerohan
+difficulty : 2
+instance: single
