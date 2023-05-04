@@ -14,7 +14,7 @@ decay: 450
 minimum: 100
 
 flags:
-  - csictf{1n_th3_3nd_1t_d0esn't_3v3n_m4tt3r}
+  - sarbctf{1n_th3_3nd_1t_d0esn't_3v3n_m4tt3r}
 
 tags:
   - web
