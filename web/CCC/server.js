@@ -100,7 +100,7 @@ app.get('/admin', decodeJWT, (req, res) => {
         return;
     }
 
-    res.send(`Hey ${username}! Here's your flag: ${str_rot13('csictf{1n_th3_3nd_1t_d0esn\'t_3v3n_m4tt3r}')}`);
+    res.send(`Hey ${username}! Here's your flag: ${str_rot13('sarbctf{1n_th3_3nd_1t_d0esn\'t_3v3n_m4tt3r}')}`);
 });
 
 
