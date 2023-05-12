@@ -1,0 +1,8 @@
+id : Cascade
+name : Cascade
+category : web
+web: true
+flag : sarbctf{w3lc0me_t0_csictf}
+author : roerohan
+difficulty : 0
+instance: single
