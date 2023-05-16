@@ -2,7 +2,7 @@ id : Cascade
 name : Cascade
 category : web
 web: true
-flag : sarbctf{w3lc0me_t0_csictf}
+flag : sarbctf{w3lc0me_t0_sarbctf}
 author : roerohan
 difficulty : 0
 instance: single
