@@ -1,0 +1,8 @@
+id : lib
+name : library
+category : web
+web: true
+flag : sarbctf{5h0uld_5tr1ng1fy_th3_p4r4ms}
+author : roerohan
+difficulty : 2
+instance: single
